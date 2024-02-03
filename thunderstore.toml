@@ -1,0 +1,23 @@
+﻿[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "tduck973564"
+name = "TrafficReductionRemover"
+versionNumber = "0.1.0"
+description = "Disables the mechanic that decreases traffic as your city gets larger."
+websiteUrl = "https://thunderstore.io"
+containsNsfwContent = false
+
+[package.dependencies]
+BepInEx-BepInExPack = "5.4.2100"
+
+[build]
+icon = "./icon.png"
+readme = "./README.md"
+outdir = "./ts-build"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "cities-skylines-ii", ]
+categories = [ "mods" ]
