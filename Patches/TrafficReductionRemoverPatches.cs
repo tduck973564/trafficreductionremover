@@ -17,7 +17,6 @@ namespace TrafficReductionRemover.Patches
             {
                 FieldInfo trafficReduction = AccessTools.Field(typeof(Game.Prefabs.EconomyPrefab), "m_TrafficReduction");
                 trafficReduction.SetValue(prefab, 0f);
-                Console.WriteLine("Added m_TrafficReduction value");
             }
         }
     }
@@ -40,7 +39,6 @@ namespace TrafficReductionRemover.Patches
                     
                     trafficReduction.SetValue(item.Key, 0f);
                     Traverse.Create(__instance).Field("m_UpdateMap").SetValue(updateMap);
-                    Console.WriteLine("Updated m_TrafficReduction value");
                     break;
                 }
             }
