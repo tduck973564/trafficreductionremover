@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 [package]
 namespace = "tduck973564"
 name = "TrafficReductionRemover"
-versionNumber = "0.1.0"
+versionNumber = "0.1.1"
 description = "Disables the mechanic that decreases traffic as your city gets larger."
 websiteUrl = "https://github.com/tduck973564/trafficreductionremover"
 containsNsfwContent = false

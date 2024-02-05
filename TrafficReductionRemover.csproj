@@ -12,7 +12,7 @@
 		<AssemblyName>TrafficReductionRemover</AssemblyName>
 		<RootNamespace>TrafficReductionRemover</RootNamespace>
 		<Description>Disables the mechanic that decreases traffic as your city gets larger.</Description>
-		<Version>0.1.0</Version>
+		<Version>0.1.1</Version>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<LangVersion>latest</LangVersion>
 		<RestoreAdditionalProjectSources>
