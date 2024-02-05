@@ -1,5 +1,7 @@
 # TrafficReductionRemover
 
+[Thunderstore mod link](https://thunderstore.io/c/cities-skylines-ii/p/tduck973564/TrafficReductionRemover/)
+
 Disables the restriction that reduces how much traffic spawns the bigger the city gets. This may not work if the game is not relaunched between loading different savefiles, and a performance hit is to be expected.
 An adjustment option is in the works.
 
