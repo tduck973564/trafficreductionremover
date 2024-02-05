@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Reflection;
-using Colossal.Logging;
 using HarmonyLib;
 using Game.Prefabs;
 using Unity.Entities;
